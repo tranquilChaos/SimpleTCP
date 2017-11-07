@@ -1,4 +1,4 @@
-# SimpleTCP
+# SimpleTCP - test update
 Straightforward and incredibly useful .NET library to handle the repetitive tasks of spinning up and working with TCP sockets (client and server).
 
 **NuGet Package:** https://www.nuget.org/packages/SimpleTCP/
